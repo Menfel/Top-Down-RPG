@@ -14,3 +14,6 @@ A Top-Down RPG computer game developed in the Unity engine, where the main featu
 *   NPC interaction (dialogue windows).
 *   Save/Load system.
 *   Intuitive pause menu, sound settings, and instructions.
+
+## Documentation
+- [Project Documentation — AI Companion in RPG](https://docs.google.com/document/d/1AHmCjKH1-MaXyiUrHBqjtaYksuI35FGD/edit?usp=sharing&ouid=117912761422424904618&rtpof=true&sd=true) — project overview, development tools, game modules, testing, and user guide.
